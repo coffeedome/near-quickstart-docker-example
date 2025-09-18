@@ -12,3 +12,5 @@ docker exec -it near-quickstart:1.0 /bin/bash
 
 # continue with sample commands provided by tutorial
 ```
+
+Reference link to near tutorial: https://docs.near.org/smart-contracts/quickstart
